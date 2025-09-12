@@ -1,5 +1,5 @@
 
-<img width="1702" height="5103" alt="메아리" src="https://github.com/user-attachments/assets/1a80c75d-0ee4-4716-90f4-3bfaf7d2c98e" />
+<img width="100%" height="100%" alt="메아리" src="https://github.com/user-attachments/assets/1a80c75d-0ee4-4716-90f4-3bfaf7d2c98e" />
 # CatchMind 소개 페이지 작성하기
 
 **주의** - 해당 README파일에서는 Organization의 소개 Page를 작성하는 파일이 아닙니다.
